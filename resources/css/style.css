@@ -1,8 +1,14 @@
+body {
+    background-color: rgb(56, 56, 56);
+    color: white;
+}
+
+
 .box {
     width: 90px;
     height: 90px;
     margin: 5px;
-    background-color: bisque;
+    box-shadow: 2px white solid;
 }
 
 #wrapper {
