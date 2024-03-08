@@ -1,0 +1,10 @@
+.box {
+    width: 90px;
+    height: 90px;
+    margin: 5px;
+    background-color: bisque;
+}
+
+#wrapper {
+    width: 1000px;
+}
